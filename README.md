@@ -50,8 +50,8 @@ This approach gives all the 51 distinct names in the list of 104 names correctly
 Following libraries are required for implementation of the given code.
 
 ```
- Pandas      :  $ pip install pandas
- Numpy       :  $ pip install numpy
+ Pandas      : $ pip install pandas
+ Numpy       : $ pip install numpy
  FuzzyWuzzy  : $ pip install fuzzywuzzy
  Levenshtein : $ sudo apt-get install python-levenshtein
 ```
